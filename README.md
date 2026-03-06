@@ -6,8 +6,7 @@
 **Business Goal**  
 Identify which customer segments drive chip sales and determine whether new store layouts created enough sales uplift to support a broader rollout.
 
-**Who This Is For**  
-Client / Stakeholder
+**Client/Stakeholder**  
 Julia, the Chips Category Manager, who needed customer and store-level insights to support the next half-year category strategy.
 
 **What I Built**
