@@ -306,7 +306,7 @@ Open the final PDFs to review the completed analysis and stakeholder-ready outpu
 Open the source code used for the project.
 
 - [Task 1 R Code](r_and_python_code/Task1.Rmd)
-- [Task 2 Python Code](r_and_python_code/python_code_trial_vs_control)
+- [Task 2 Python Code](r_and_python_code/python_code_trial_vs_control.py)
 
 ### Option C: Review the Charts and Data
 
