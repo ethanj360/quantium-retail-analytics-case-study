@@ -3,6 +3,9 @@
 
 ## TLDR
 
+**Project Context**  
+Completed through Quantium’s Data Analytics Virtual Program on Forage, simulating client-facing retail analytics work focused on customer behavior, experimentation, and commercial recommendations.
+
 **Business Goal**  
 Identify which customer segments drive chip sales and determine whether new store layouts created enough sales uplift to support a broader rollout.
 
