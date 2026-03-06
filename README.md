@@ -82,8 +82,7 @@ The result is a full case study that moves from raw data to commercial recommend
 
 **Which customer segments should the chips category team prioritize, and did the new trial store layouts improve sales enough to justify wider rollout?**
 
-This project reflects how a category manager would actually use analytics:
-
+Subsequent Analytical Questions to Answer:
 - Which customer groups drive the most value?
 - What behaviors explain category sales?
 - Did the new layouts improve store performance?
