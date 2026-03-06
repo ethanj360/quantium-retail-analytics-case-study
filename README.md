@@ -7,7 +7,8 @@
 Identify which customer segments drive chip sales and determine whether new store layouts created enough sales uplift to support a broader rollout.
 
 **Who This Is For**  
-Retail category managers, commercial analysts, and merchandising teams responsible for promotions, category strategy, and in-store layout decisions.
+Client / Stakeholder
+Julia, the Chips Category Manager, who needed customer and store-level insights to support the next half-year category strategy.
 
 **What I Built**
 - A retail analytics case study analyzing 252K+ transaction records and 72K+ customer records
