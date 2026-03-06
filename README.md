@@ -93,9 +93,6 @@ This project reflects how a category manager would actually use analytics:
 
 ## Client Context
 
-**Client Type**  
-Retail category manager responsible for the chips category.
-
 **Primary Stakeholder**  
 Julia, Chips Category Manager.
 
